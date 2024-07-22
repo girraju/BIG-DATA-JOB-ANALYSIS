@@ -2,16 +2,6 @@
 ## Overview
 This project analyzes job market trends using big data techniques to provide actionable insights for job seekers and employers. The analysis encompasses job demand across various sectors, skill requirements, salary trends, company ratings, and geographical locations. Interactive visualizations, including word clouds of job descriptions, are created to present the findings effectively.
 
-![2024-07-22 (2)](https://github.com/user-attachments/assets/cc8140f8-4f1d-46b4-aabf-04015d1ddc7c)
-![2024-07-22 (1)](https://github.com/user-attachments/assets/3b99b040-98d8-4e8f-a07a-d94562fc4c12)
-![2024-07-22 (5)](https://github.com/user-attachments/assets/c6f3b687-3725-4b64-9842-3d40faf955d2)
-![2024-07-22 (3)](https://github.com/user-attachments/assets/bc669b8e-11bd-4864-b974-cc06ea35fcb1)
-![2024-07-22 (4)](https://github.com/user-attachments/assets/e56ea22d-6fa6-4723-a526-441a4c06896a)
-
-## Demo Video
-
-https://github.com/girraju/CineMax/assets/172365507/fce5e15c-57c2-4b52-84b3-63fdfcdc40c5
-
 ## features
 
 ### Datasets:
